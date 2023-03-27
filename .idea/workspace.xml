@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="911e9091-68f1-4a21-a87d-8e6a21f96b06" name="Changes" comment="Terceiro">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Motor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Motor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Pessoa.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/AlterarPosicaoException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/AlterarPosicaoException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/MenorDeIdadeException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/MenorDeIdadeException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/PessoaSemCartaException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/PessoaSemCartaException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/VeiculoDesligadoException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/VeiculoDesligadoException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/VeiculoLigadoException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/VeiculoLigadoException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/VeiculoNaoEncontradoException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/exceptions/VeiculoNaoEncontradoException.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +83,7 @@
       <workItem from="1679953503976" duration="1925000" />
       <workItem from="1679955442163" duration="437000" />
       <workItem from="1679955886348" duration="74000" />
-      <workItem from="1679956670811" duration="781000" />
+      <workItem from="1679956670811" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro">
       <created>1679954952095</created>
@@ -137,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679957127116</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Terceiro">
+      <created>1679957470710</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679957470710</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
