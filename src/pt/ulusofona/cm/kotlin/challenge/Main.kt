@@ -1,4 +1,4 @@
-package pt.ulusofona.cm.kotlin.challenge
+package pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge
 
 /*
 * Pessoa -> nome, data, veiculos, carta, posicao
