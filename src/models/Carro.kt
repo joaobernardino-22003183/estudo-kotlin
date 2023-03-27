@@ -4,7 +4,6 @@ import pt.ulusofona.cm.kotlin.challenge.interfaces.Ligavel
 import java.text.SimpleDateFormat
 
 class Carro(identificador: String, private var motor: Motor) : Veiculo(identificador), Ligavel {
-
     override fun toString(): String {
         return "Carro | ${this.identificador} | ${SimpleDateFormat("dd-MM-yyyy").format(this.dataDeAquisicao)} | Posicao | x:${this.posicao.x} | y:${this.posicao.y}"
     }
