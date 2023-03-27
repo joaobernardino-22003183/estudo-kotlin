@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="911e9091-68f1-4a21-a87d-8e6a21f96b06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/AlterarPosicaoException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/MenorDeIdadeException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/PessoaSemCartaException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/VeiculoDesligadoException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/VeiculoLigadoException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/VeiculoNaoEncontradoException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Ligavel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Movimentavel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Bicicleta.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Carro.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Carta.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Motor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Pessoa.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Posicao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Veiculo.kt" afterDir="false" />
+    <list default="true" id="911e9091-68f1-4a21-a87d-8e6a21f96b06" name="Changes" comment="Primeiro">
+      <change beforePath="$PROJECT_DIR$/src/models/Bicicleta.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Bicicleta.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +57,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679953502763</updated>
-      <workItem from="1679953503976" duration="1373000" />
+      <workItem from="1679953503976" duration="1517000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiro">
+      <created>1679954952095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679954952095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro" />
   </component>
 </project>

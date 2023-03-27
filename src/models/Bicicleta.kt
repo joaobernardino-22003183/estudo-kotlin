@@ -4,7 +4,6 @@ import pt.ulusofona.cm.kotlin.challenge.interfaces.Movimentavel
 import java.text.SimpleDateFormat
 
 class Bicicleta(identificador: String) : Veiculo(identificador), Movimentavel {
-
     override fun moverPara(x: Int, y: Int) {
         posicao.x = x
         posicao.y = y
