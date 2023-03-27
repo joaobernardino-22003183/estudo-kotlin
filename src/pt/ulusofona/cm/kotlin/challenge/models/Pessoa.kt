@@ -7,6 +7,8 @@ import pt.ulusofona.cm.kotlin.challenge.pt.ulusofona.cm.kotlin.challenge.excepti
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.time.LocalDate
+import java.time.LocalDateTime
+import java.time.Period
 
 class Pessoa(var nome: String, var dataDeNascimento: Date) : Movimentavel {
 

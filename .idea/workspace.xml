@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="911e9091-68f1-4a21-a87d-8e6a21f96b06" name="Changes" comment="Segundo">
+    <list default="true" id="911e9091-68f1-4a21-a87d-8e6a21f96b06" name="Changes" comment="Terceiro">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Carro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Carro.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Motor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Motor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Pessoa.kt" afterDir="false" />
     </list>
@@ -80,7 +79,7 @@
       <workItem from="1679953503976" duration="1925000" />
       <workItem from="1679955442163" duration="437000" />
       <workItem from="1679955886348" duration="74000" />
-      <workItem from="1679956670811" duration="442000" />
+      <workItem from="1679956670811" duration="781000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro">
       <created>1679954952095</created>
@@ -131,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679957027960</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Terceiro">
+      <created>1679957127116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679957127116</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +157,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro" />
     <MESSAGE value="Segundo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo" />
+    <MESSAGE value="Terceiro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terceiro" />
   </component>
 </project>
