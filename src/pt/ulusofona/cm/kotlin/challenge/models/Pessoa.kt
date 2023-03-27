@@ -8,11 +8,11 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.time.LocalDate
 
-class Pessoa(private var nome: String, private var dataDeNascimento: Date) : Movimentavel {
+class Pessoa(var nome: String, var dataDeNascimento: Date) : Movimentavel {
 
     var veiculos : MutableList<Veiculo> = mutableListOf()
-    private var carta : Carta? = null
-    private var posicao : Posicao = Posicao(0,0)
+    var carta : Carta? = null
+    var posicao : Posicao = Posicao(0,0)
 
 
     fun comprarVeiculo(veiculo: Veiculo) { veiculos.add(veiculo) }

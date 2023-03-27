@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="911e9091-68f1-4a21-a87d-8e6a21f96b06" name="Changes" comment="Primeiro">
+    <list default="true" id="911e9091-68f1-4a21-a87d-8e6a21f96b06" name="Changes" comment="Segundo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Carro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Carro.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Motor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Motor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge/models/Pessoa.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +62,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pt/ulusofona/cm/kotlin/challenge" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="exceptions" />
     </key>
@@ -74,6 +80,7 @@
       <workItem from="1679953503976" duration="1925000" />
       <workItem from="1679955442163" duration="437000" />
       <workItem from="1679955886348" duration="74000" />
+      <workItem from="1679956670811" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro">
       <created>1679954952095</created>
@@ -103,7 +110,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679955806117</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Primeiro">
+      <created>1679956682633</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679956682633</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Primeiro">
+      <created>1679956917644</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679956917644</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Segundo">
+      <created>1679957027960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679957027960</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro" />
+    <MESSAGE value="Segundo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo" />
   </component>
 </project>
